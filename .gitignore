@@ -851,3 +851,4 @@ task1/VulDeepPecker - CGD/CWE-399/source_files/CVE-2017-6348/CVE-2017-6348.txt
 task1/VulDeepPecker - CGD/CWE-399/source_files/CVE-2017-6353/CVE-2017-6353.txt
 task1/VulDeepPecker - CGD/CWE-399/source_files/CVE-2017-6470/CVE-2017-6470.txt
 task1/VulDeepPecker - CGD/CWE-399/source_files/CVE-2017-6474/CVE-2017-6474.txt
+*.zip
